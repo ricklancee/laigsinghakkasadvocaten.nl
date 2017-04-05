@@ -1,8 +1,6 @@
-# laigsinghakkasadvocaten.nl
+# Static Jekyll Site
 
-
-
-### in order to build
+### In order to build
 
 Install jekyll: https://jekyllrb.com/docs/installation/
 
